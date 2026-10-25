@@ -20,4 +20,8 @@ public class Persona {
 		return nombre;
 	}
 	
+	public double getAltura() {
+		return altura;
+	}
+	
 }
