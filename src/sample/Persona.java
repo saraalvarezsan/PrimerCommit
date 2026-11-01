@@ -24,4 +24,8 @@ public class Persona {
 		return altura;
 	}
 	
+	public void setEdad(int edad) {
+		this.edad=edad;
+	}
+	
 }
