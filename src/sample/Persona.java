@@ -28,4 +28,7 @@ public class Persona {
 		this.edad=edad;
 	}
 	
+	public void setNombre(String nombre) {
+		this.nombre=nombre;
+	}
 }
